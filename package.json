@@ -1,0 +1,21 @@
+{
+  "name": "resume-page",
+  "version": "1.0.0",
+  "description": "Github repository for my personal resume site",
+  "main": "handler.js",
+  "scripts": {
+    "build": "next build",
+    "deploy": "next build && sls deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkania3/resume-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkania3/resume-page/issues"
+  },
+  "homepage": "https://github.com/rkania3/resume-page#readme"
+}
